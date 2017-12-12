@@ -11,7 +11,7 @@ h1 {
   color: white;
 }
 
-h3 {
+.discover {
   color: aquamarine;
   font-size: 16px;
 }
@@ -24,4 +24,9 @@ h2 {
 .excursion {
   color: gray;
   font-size: 21px;
+}
+
+.footer {
+  text-align: right;
+  color: gray;
 }
